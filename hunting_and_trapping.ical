@@ -1,0 +1,1233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NA//MO Hunting & Trapping//EN
+NAME:Missouri Hunting & Trapping Seasons
+X-WR-CALNAME:Missouri Hunting & Trapping Seasons
+REFRESH-INTERVAL;VALUE=DURATION:P7D
+X-PUBLISHED-TTL:P7D
+BEGIN:VEVENT
+UID:Bullfrog and Green Frog: Hunting-2025
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20251031
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Bullfrog and Green Frog: Hunting
+TRANSP:TRANSPARENT
+DESCRIPTION:\nSeason opens at sunset on opening day. Check sunrise and sun
+ set times in your area.\n\nOnly the daily limit may be possessed on waters
+  and banks of waters being fished or hunted.\n
+X-ALT-DESC;FMTTYPE=text/html:\nSeason opens at sunset on opening day. Chec
+ k sunrise and sunset times in your area.\n\nOnly the daily limit may be po
+ ssessed on waters and banks of waters being fished or hunted.\n\n\n<div cl
+ ass="field__item"><p><strong>Daily limit:</strong> 8 (combined total of bo
+ th species)<br><strong>Possession limit: </strong>16</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/bullfrog-green-f
+ rog-hunting
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Ducks, Coots, and Geese Hunting: Youth: North Zone-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241026
+DTEND;VALUE=DATE:20241027
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Ducks\, Coots\, and Geese Hunting: Youth: North Zone
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to sunset\n\nSee the zone bound
+ ary map for areas in the north zone.Youth hunters must be age 15 or younge
+ r and accompanied by an adult 18 years old or older who is not allowed to 
+ hunt ducks but who can participate in other open seasons.\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to sunset\n\nS
+ ee the zone boundary map for areas in the north zone.Youth hunters must be
+  age 15 or younger and accompanied by an adult 18 years old or older who i
+ s not allowed to hunt ducks but who can participate in other open seasons.
+ \n\n\n<div class="field__item"><p><strong>Ducks</strong>: <strong>Daily li
+ mit</strong> of 6 with species restrictions below\, <strong>possession lim
+ it</strong> of 18<br><strong>Mallards:</strong> 4 (no more than 2 females)
+ <br><strong>Scaup:</strong> 2&nbsp\;<br><strong>Wood ducks:</strong> 3<br>
+ <strong>Hooded mergansers:</strong> 2<br><strong>Redheads:</strong> 2<br><
+ strong>Canvasback:</strong> 2<br><strong>Black duck:</strong> 2<br><strong
+ >Mottled duck:</strong> 1<br><strong>Pintails:</strong> 1</p><p><strong>Co
+ ots</strong>: <strong>Daily limit</strong> of 15\, <strong>possession limi
+ t</strong> of 45.<br><br><strong>Geese</strong><br><strong>Light geese:</s
+ trong> <strong>Daily limit</strong> 20\, <strong>no possession limit</stro
+ ng><br><strong>Canada/brant geese (combined):</strong> <strong>Daily limit
+ </strong> 3\, <strong>possession limit</strong> 9<br><strong>White-fronted
+  geese:</strong> <strong>Daily limit</strong> 2\, <strong>possession limit
+ </strong> 6</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/ducks-coots-gees
+ e-hunting-youth-north-zone
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Turkey: Fall Firearms-2025
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20251001
+DTEND;VALUE=DATE:20251031
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Turkey: Fall Firearms
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to sunset\n\nFall firearms turk
+ ey hunting is not permitted in Dunklin\, McDonald\, Mississippi\, New Madr
+ id\, Newton\, Pemiscot\, and Scott counties.\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to sunset\n\nF
+ all firearms turkey hunting is not permitted in Dunklin\, McDonald\, Missi
+ ssippi\, New Madrid\, Newton\, Pemiscot\, and Scott counties.\n\n\n<div cl
+ ass="field__item"><p>Two turkeys of either sex (archery and firearms porti
+ ons combined)\, both may be taken on the same day</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/turkey-fall-fire
+ arms
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Pheasant: Hunting-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241101
+DTEND;VALUE=DATE:20250115
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Pheasant: Hunting
+TRANSP:TRANSPARENT
+DESCRIPTION:\nnull\n\nOnly male pheasants may be taken. A foot or fully-fe
+ athered head must be left attached during transportation and storage.\n
+X-ALT-DESC;FMTTYPE=text/html:\nnull\n\nOnly male pheasants may be taken. A
+  foot or fully-feathered head must be left attached during transportation 
+ and storage.\n\n\n<div class="field__item"><p><strong>Daily limit:</strong
+ > 2 male pheasants<br><strong>Possession limit: </strong>4 male pheasants<
+ /p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/pheasant-hunting
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Early Canada Goose and Brant: Hunting-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241005
+DTEND;VALUE=DATE:20241013
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Early Canada Goose and Brant: Hunting
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to sunset\n\nnull\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to sunset\n\nn
+ ull\n\n\n<div class="field__item"><p><strong>Daily limit:</strong> 3<br><s
+ trong>Possession limit:</strong> 9</p><p>Daily and possession limits are b
+ rant and Canada geese combined.</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/early-canada-goo
+ se-brant-hunting
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Ducks, Coots, and Geese Hunting: Youth: South Zone-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241123
+DTEND;VALUE=DATE:20241124
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Ducks\, Coots\, and Geese Hunting: Youth: South Zone
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to sunset\n\nSee the zone bound
+ ary map for areas in the south zone.Youth hunters must be age 15 or younge
+ r and accompanied by an adult 18 years old or older who is not allowed to 
+ hunt ducks but who can participate in other open seasons.\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to sunset\n\nS
+ ee the zone boundary map for areas in the south zone.Youth hunters must be
+  age 15 or younger and accompanied by an adult 18 years old or older who i
+ s not allowed to hunt ducks but who can participate in other open seasons.
+ \n\n\n<div class="field__item"><p><strong>Ducks</strong>: <strong>Daily li
+ mit </strong>of 6 with species restrictions below\, <strong>possession lim
+ it</strong> of 18<br><strong>Mallards:</strong> 4 (no more than 2 females)
+ <br><strong>Scaup:</strong> 2&nbsp\;<br><strong>Wood ducks:</strong> 3<br>
+ <strong>Hooded mergansers:</strong> 2<br><strong>Redheads:</strong> 2<br><
+ strong>Canvasback:</strong> 2<br><strong>Black duck:</strong> 2<br><strong
+ >Mottled duck:</strong> 1<br><strong>Pintails:</strong> 1</p><p><strong>Co
+ ots</strong>: <strong>Daily limit</strong> of 15\, <strong>possession limi
+ t </strong>of 45.<br><br><strong>Geese</strong><br><strong>Light geese: Da
+ ily limit</strong> 20\, <strong>no possession limit</strong><br><strong>Ca
+ nada/brant geese (combined):</strong> <strong>Daily limit</strong> 3\, <st
+ rong>possession limit</strong> 9<br><strong>White-fronted geese: Daily lim
+ it</strong> 2\, <strong>possession limit</strong> 6</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/ducks-coots-gees
+ e-hunting-youth-south-zone
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Turkey: Spring-2025
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250511
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Turkey: Spring
+TRANSP:TRANSPARENT
+DESCRIPTION:\nExtend shooting hours to all day on private land only (pub
+ lic land will retain the 1PM closing time) for all three weeks of the seas
+ on\n\nnull\n
+X-ALT-DESC;FMTTYPE=text/html:\nExtend shooting hours to all day on privat
+ e land only (public land will retain the 1PM closing time) for all three 
+ weeks of the season\n\nnull\n\n\n<div class="field__item"><p>Two male turk
+ eys or turkeys with visible beard may be taken during the season\, with th
+ e following restrictions:</p><ul><li>You may take only one turkey during t
+ he first week</li><li>If you do not take one during the first week\, then 
+ you may take two turkeys during the second and third week.</li><li>You may
+  not take two turkeys on the same day.</li></ul></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/turkey-spring
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Pheasant: Hunting: Youth-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241026
+DTEND;VALUE=DATE:20241027
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Pheasant: Hunting: Youth
+TRANSP:TRANSPARENT
+DESCRIPTION:\nnull\n\nOpen to youths age 6 through 15. Youths who are not 
+ hunter-education certified must hunt in the immediate presence of a proper
+ ly licensed adult\; however\, the adult may not hunt pheasants.Only male p
+ heasants may be taken. A foot or fully-feathered head must be left attache
+ d during transportation and storage.\n
+X-ALT-DESC;FMTTYPE=text/html:\nnull\n\nOpen to youths age 6 through 15. Yo
+ uths who are not hunter-education certified must hunt in the immediate pre
+ sence of a properly licensed adult\; however\, the adult may not hunt phea
+ sants.Only male pheasants may be taken. A foot or fully-feathered head mus
+ t be left attached during transportation and storage.\n\n\n<div class="fie
+ ld__item"><p><strong>Daily limit:</strong> 2 male pheasants<br><strong>Pos
+ session limit:</strong> 4 male pheasants</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/pheasant-hunting
+ -youth
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Common Snipe: Hunting-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20240901
+DTEND;VALUE=DATE:20241216
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Common Snipe: Hunting
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to sunset\n\nnull\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to sunset\n\nn
+ ull\n\n\n<div class="field__item"><p><strong>Daily limit: </strong>8<br><s
+ trong>Possession limit:</strong> 24</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/common-snipe-hun
+ ting
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Elk Hunting: Archery-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241019
+DTEND;VALUE=DATE:20241027
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Elk Hunting: Archery
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half (1/2) hour before sunrise to one-half (1/2) hour af
+ ter sunset\n\nAntlered Elk Hunting permits can be used during both the arc
+ hery and firearms portions of the elk hunting season.\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half (1/2) hour before sunrise to one-h
+ alf (1/2) hour after sunset\n\nAntlered Elk Hunting permits can be used du
+ ring both the archery and firearms portions of the elk hunting season.\n\n
+ \n<div class="field__item"><p>Those selected to receive a permit may take 
+ one (1) elk with at least one (1) antler no less than 6” in length.</p><
+ /div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/elk-hunting-arch
+ ery
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Crow: Hunting-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241101
+DTEND;VALUE=DATE:20250303
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Crow: Hunting
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to sunset\n\nnull\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to sunset\n\nn
+ ull\n\n\n<div class="field__item"><p><strong>Daily limit:</strong> Any num
+ ber<br><strong>Possession limit:</strong> Any number</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/crow-hunting
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Deer: Firearms: Alternative Methods-2025
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20251227
+DTEND;VALUE=DATE:20260106
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Deer: Firearms: Alternative Methods
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to one-half hour after sunset\n
+ \nAn antler-point restriction applies in some counties.\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to one-half ho
+ ur after sunset\n\nAn antler-point restriction applies in some counties.\n
+ \n\n<div class="field__item"><ul><li>You may take only one antlered deer d
+ uring the entire firearms season (all portions combined).</li><li>You may 
+ take only two antlered deer during the archery and firearms deer hunting s
+ easons combined.</li><li>Each county limits the number of antlerless deer 
+ hunting permits you can fill during the entire firearms season (all portio
+ ns). <a href="https://mdc.mo.gov/hunting-trapping/regulations/antlerless-d
+ eer-hunting-county-restrictions">See map</a>.</li></ul></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/deer-firearms-al
+ ternative-methods
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Groundhog: Hunting-2025
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20251215
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Groundhog: Hunting
+TRANSP:TRANSPARENT
+DESCRIPTION:\nnull\n\nGroundhog pelts may be possessed and sold throughout
+  the year.\n
+X-ALT-DESC;FMTTYPE=text/html:\nnull\n\nGroundhog pelts may be possessed an
+ d sold throughout the year.\n\n\n<div class="field__item"><p><strong>Daily
+  limit:</strong> Any number<br><strong>Possession limit:</strong> Any numb
+ er</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/groundhog-huntin
+ g
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Teal: Hunting-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20240907
+DTEND;VALUE=DATE:20240922
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Teal: Hunting
+TRANSP:TRANSPARENT
+DESCRIPTION:\nSunrise to sunset\n\nYou may hunt blue-winged teal\, green-w
+ inged teal\, and cinnamon teal.Northern shoveler\, northern pintail\, and 
+ wood ducks have similarly colored plumage but are illegal to hunt during t
+ his season.\n
+X-ALT-DESC;FMTTYPE=text/html:\nSunrise to sunset\n\nYou may hunt blue-wing
+ ed teal\, green-winged teal\, and cinnamon teal.Northern shoveler\, northe
+ rn pintail\, and wood ducks have similarly colored plumage but are illegal
+  to hunt during this season.\n\n\n<div class="field__item"><p><strong>Dai
+ ly bag limit:</strong> 6</p><p><strong>Possession limit:</strong> 18</p><p
+ >Limits are a combined total of all teal species.</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/teal-hunting
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Squirrel: Hunting-2025
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20260215
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Squirrel: Hunting
+TRANSP:TRANSPARENT
+DESCRIPTION:\nnull\n\nnull\n
+X-ALT-DESC;FMTTYPE=text/html:\nnull\n\nnull\n\n\n<div class="field__item">
+ <p><strong>Daily limit:</strong> 10<br><strong>Possession limit:</strong> 
+ 20</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/squirrel-hunting
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Dove: Hunting-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20240901
+DTEND;VALUE=DATE:20241129
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Dove: Hunting
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to sunset\n\nnull\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to sunset\n\nn
+ ull\n\n\n<div class="field__item"><p><strong>Daily limit: </strong>15<br><
+ strong>Possession limit:</strong> 45</p><p>Combined total of all dove spec
+ ies</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/dove-hunting
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Goose (Canada, Brant, White-Fronted, Snow, Ross's): Hunting-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20250206
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Goose (Canada\, Brant\, White-Fronted\, Snow\, Ross's): Hunting
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to sunset\n\nnull\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to sunset\n\nn
+ ull\n\n\n<div class="field__item"><p><strong>Canada geese and brant&nbsp\;
+ </strong></p><p><strong>Daily limit: </strong>3<br><strong>Possession limi
+ t:</strong> 9&nbsp\;</p><p>Combined total of both species</p><p><strong>Wh
+ ite-fronted geese</strong></p><p><strong>Daily limit:</strong> 2<br><stron
+ g>Possession limit:</strong> 6</p><p><strong>Light geese</strong></p><p><s
+ trong>Daily limit:</strong> 20<br><strong>Possession limit: </strong>none<
+ /p><p>Combined snow\, blue\, and Ross's geese.</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/goose-canada-bra
+ nt-white-fronted-snow-rosss-hunting
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Badger: Hunting and Trapping-2025
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20260131
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Badger: Hunting and Trapping
+TRANSP:TRANSPARENT
+DESCRIPTION:\nnull\n\nnull\n
+X-ALT-DESC;FMTTYPE=text/html:\nnull\n\nnull\n\n\n<div class="field__item">
+ <p><strong>Daily limit</strong>: Any number<br><strong>Possession limit:</
+ strong> Any number</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/badger-hunting-t
+ rapping
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Dove: Falconry-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20240901
+DTEND;VALUE=DATE:20241216
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Dove: Falconry
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to sunset\n\nnull\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to sunset\n\nn
+ ull\n\n\n<div class="field__item"><p><strong>Daily limit:</strong> 3<br><s
+ trong>Possession limit:</strong> 9</p><p>Any ducks\, coots\, or mergansers
+  taken by falconers must be included in these limits.</p><p>&nbsp\;</p></d
+ iv>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/dove-falconry
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Ducks, Coots, and Mergansers: Falconry-2025
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20250211
+DTEND;VALUE=DATE:20250310
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Ducks\, Coots\, and Mergansers: Falconry
+TRANSP:TRANSPARENT
+DESCRIPTION:\nSunrise to sunset during the September teal season\, one-hal
+ f hour before sunrise to sunset during the remaining seasons.\n\nSeason is
+  also open during the regular duck-hunting seasons\, including teal and yo
+ uth waterfowl seasons.\n
+X-ALT-DESC;FMTTYPE=text/html:\nSunrise to sunset during the September teal
+  season\, one-half hour before sunrise to sunset during the remaining seas
+ ons.\n\nSeason is also open during the regular duck-hunting seasons\, incl
+ uding teal and youth waterfowl seasons.\n\n\n<div class="field__item"><p><
+ strong>Daily limit: </strong>3 birds\, combined total of doves\, ducks\, a
+ nd coots.<br><strong>Possession limit:</strong> 9 birds\, combined total o
+ f doves\, ducks\, and coots.</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/ducks-coots-merg
+ ansers-falconry
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Early Canada Goose and Brant: Hunting-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241005
+DTEND;VALUE=DATE:20241013
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Early Canada Goose and Brant: Hunting
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to sunset\n\nnull\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to sunset\n\nn
+ ull\n\n\n<div class="field__item"><p><strong>Daily limit:</strong> 3<br><s
+ trong>Possession limit:</strong> 9</p><p>Daily and possession limits are b
+ rant and Canada geese combined.</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/early-canada-goo
+ se-brant-hunting
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Ducks, Coots, and Geese Hunting: Youth: South Zone-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241123
+DTEND;VALUE=DATE:20241124
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Ducks\, Coots\, and Geese Hunting: Youth: South Zone
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to sunset\n\nSee the zone bound
+ ary map for areas in the south zone.Youth hunters must be age 15 or younge
+ r and accompanied by an adult 18 years old or older who is not allowed to 
+ hunt ducks but who can participate in other open seasons.\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to sunset\n\nS
+ ee the zone boundary map for areas in the south zone.Youth hunters must be
+  age 15 or younger and accompanied by an adult 18 years old or older who i
+ s not allowed to hunt ducks but who can participate in other open seasons.
+ \n\n\n<div class="field__item"><p><strong>Ducks</strong>: <strong>Daily li
+ mit </strong>of 6 with species restrictions below\, <strong>possession lim
+ it</strong> of 18<br><strong>Mallards:</strong> 4 (no more than 2 females)
+ <br><strong>Scaup:</strong> 2&nbsp\;<br><strong>Wood ducks:</strong> 3<br>
+ <strong>Hooded mergansers:</strong> 2<br><strong>Redheads:</strong> 2<br><
+ strong>Canvasback:</strong> 2<br><strong>Black duck:</strong> 2<br><strong
+ >Mottled duck:</strong> 1<br><strong>Pintails:</strong> 1</p><p><strong>Co
+ ots</strong>: <strong>Daily limit</strong> of 15\, <strong>possession limi
+ t </strong>of 45.<br><br><strong>Geese</strong><br><strong>Light geese: Da
+ ily limit</strong> 20\, <strong>no possession limit</strong><br><strong>Ca
+ nada/brant geese (combined):</strong> <strong>Daily limit</strong> 3\, <st
+ rong>possession limit</strong> 9<br><strong>White-fronted geese: Daily lim
+ it</strong> 2\, <strong>possession limit</strong> 6</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/ducks-coots-gees
+ e-hunting-youth-south-zone
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Turkey: Spring-2025
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250511
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Turkey: Spring
+TRANSP:TRANSPARENT
+DESCRIPTION:\nExtend shooting hours to all day on private land only (pub
+ lic land will retain the 1PM closing time) for all three weeks of the seas
+ on\n\nnull\n
+X-ALT-DESC;FMTTYPE=text/html:\nExtend shooting hours to all day on privat
+ e land only (public land will retain the 1PM closing time) for all three 
+ weeks of the season\n\nnull\n\n\n<div class="field__item"><p>Two male turk
+ eys or turkeys with visible beard may be taken during the season\, with th
+ e following restrictions:</p><ul><li>You may take only one turkey during t
+ he first week</li><li>If you do not take one during the first week\, then 
+ you may take two turkeys during the second and third week.</li><li>You may
+  not take two turkeys on the same day.</li></ul></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/turkey-spring
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Pheasant: Hunting: Youth-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241026
+DTEND;VALUE=DATE:20241027
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Pheasant: Hunting: Youth
+TRANSP:TRANSPARENT
+DESCRIPTION:\nnull\n\nOpen to youths age 6 through 15. Youths who are not 
+ hunter-education certified must hunt in the immediate presence of a proper
+ ly licensed adult\; however\, the adult may not hunt pheasants.Only male p
+ heasants may be taken. A foot or fully-feathered head must be left attache
+ d during transportation and storage.\n
+X-ALT-DESC;FMTTYPE=text/html:\nnull\n\nOpen to youths age 6 through 15. Yo
+ uths who are not hunter-education certified must hunt in the immediate pre
+ sence of a properly licensed adult\; however\, the adult may not hunt phea
+ sants.Only male pheasants may be taken. A foot or fully-feathered head mus
+ t be left attached during transportation and storage.\n\n\n<div class="fie
+ ld__item"><p><strong>Daily limit:</strong> 2 male pheasants<br><strong>Pos
+ session limit:</strong> 4 male pheasants</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/pheasant-hunting
+ -youth
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Common Snipe: Hunting-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20240901
+DTEND;VALUE=DATE:20241216
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Common Snipe: Hunting
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to sunset\n\nnull\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to sunset\n\nn
+ ull\n\n\n<div class="field__item"><p><strong>Daily limit: </strong>8<br><s
+ trong>Possession limit:</strong> 24</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/common-snipe-hun
+ ting
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Elk Hunting: Archery-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241019
+DTEND;VALUE=DATE:20241027
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Elk Hunting: Archery
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half (1/2) hour before sunrise to one-half (1/2) hour af
+ ter sunset\n\nAntlered Elk Hunting permits can be used during both the arc
+ hery and firearms portions of the elk hunting season.\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half (1/2) hour before sunrise to one-h
+ alf (1/2) hour after sunset\n\nAntlered Elk Hunting permits can be used du
+ ring both the archery and firearms portions of the elk hunting season.\n\n
+ \n<div class="field__item"><p>Those selected to receive a permit may take 
+ one (1) elk with at least one (1) antler no less than 6” in length.</p><
+ /div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/elk-hunting-arch
+ ery
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Turkey: Spring: Youth (ages 6-15)-2025
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250413
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Turkey: Spring: Youth (ages 6-15)
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to sunset\n\nYouth hunters who 
+ are age 6-15 on opening day may hunt.Youth may also hunt during the regula
+ r Spring Turkey season.\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to sunset\n\nY
+ outh hunters who are age 6-15 on opening day may hunt.Youth may also hunt 
+ during the regular Spring Turkey season.\n\n\n<div class="field__item"><p>
+ During the spring youth season\, one male turkey or turkey with visible be
+ ard</p><p><br>Youths who take a turkey during the youth season may not har
+ vest a second bird until the second Monday of the regular season. This is 
+ because the bird taken during the youth season counts as the first bird fo
+ r the first week of the regular season.<br>&nbsp\;</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/turkey-spring-yo
+ uth-ages-6-15
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Quail: Hunting-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241101
+DTEND;VALUE=DATE:20250115
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Quail: Hunting
+TRANSP:TRANSPARENT
+DESCRIPTION:\nnull\n\nnull\n
+X-ALT-DESC;FMTTYPE=text/html:\nnull\n\nnull\n\n\n<div class="field__item">
+ <p><strong>Daily limit:</strong> 8<br><strong>Possession limit:</strong> 1
+ 6</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/quail-hunting
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Coyote: Hunting-2025
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20251231
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Coyote: Hunting
+TRANSP:TRANSPARENT
+DESCRIPTION:\nCoyotes may not be taken during the daylight hours from Apri
+ l 1 through the day prior to the beginning of the Spring Turkey Hunting se
+ ason\n\nCoyotes\, except as otherwise provided in this section\, may be ta
+ ken by hunting\, and pelts and carcasses may be possessed\, transported\, 
+ and sold in any numbers throughout the year.Special method restrictions ap
+ ply during spring turkey season\, elk season and deer season. See Allowed 
+ & Prohibited methods.\n
+X-ALT-DESC;FMTTYPE=text/html:\nCoyotes may not be taken during the dayligh
+ t hours from April 1 through the day prior to the beginning of the Spring 
+ Turkey Hunting season\n\nCoyotes\, except as otherwise provided in this se
+ ction\, may be taken by hunting\, and pelts and carcasses may be possessed
+ \, transported\, and sold in any numbers throughout the year.Special metho
+ d restrictions apply during spring turkey season\, elk season and deer sea
+ son. See Allowed & Prohibited methods.\n\n\n<div class="field__item"><p><s
+ trong>Daily limit: </strong>Any number<br><strong>Possession limit: </stro
+ ng>Any number</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/coyote-hunting
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Elk Hunting: Firearms-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241214
+DTEND;VALUE=DATE:20241222
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Elk Hunting: Firearms
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half (1/2) hour before sunrise to one-half (1/2) hour af
+ ter sunset\n\nAntlered Elk Hunting Permits can be used during both the arc
+ hery and firearms portions of the elk hunting season.\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half (1/2) hour before sunrise to one-h
+ alf (1/2) hour after sunset\n\nAntlered Elk Hunting Permits can be used du
+ ring both the archery and firearms portions of the elk hunting season.\n\n
+ \n<div class="field__item"><p>Those selected to receive a permit may take 
+ one (1) elk with at least one (1) antler no less than 6” in length.</p><
+ /div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/elk-hunting-fire
+ arms
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Early Canada Goose and Brant: Hunting-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241005
+DTEND;VALUE=DATE:20241013
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Early Canada Goose and Brant: Hunting
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to sunset\n\nnull\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to sunset\n\nn
+ ull\n\n\n<div class="field__item"><p><strong>Daily limit:</strong> 3<br><s
+ trong>Possession limit:</strong> 9</p><p>Daily and possession limits are b
+ rant and Canada geese combined.</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/early-canada-goo
+ se-brant-hunting
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Ducks, Coots, and Geese Hunting: Youth: South Zone-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241123
+DTEND;VALUE=DATE:20241124
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Ducks\, Coots\, and Geese Hunting: Youth: South Zone
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to sunset\n\nSee the zone bound
+ ary map for areas in the south zone.Youth hunters must be age 15 or younge
+ r and accompanied by an adult 18 years old or older who is not allowed to 
+ hunt ducks but who can participate in other open seasons.\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to sunset\n\nS
+ ee the zone boundary map for areas in the south zone.Youth hunters must be
+  age 15 or younger and accompanied by an adult 18 years old or older who i
+ s not allowed to hunt ducks but who can participate in other open seasons.
+ \n\n\n<div class="field__item"><p><strong>Ducks</strong>: <strong>Daily li
+ mit </strong>of 6 with species restrictions below\, <strong>possession lim
+ it</strong> of 18<br><strong>Mallards:</strong> 4 (no more than 2 females)
+ <br><strong>Scaup:</strong> 2&nbsp\;<br><strong>Wood ducks:</strong> 3<br>
+ <strong>Hooded mergansers:</strong> 2<br><strong>Redheads:</strong> 2<br><
+ strong>Canvasback:</strong> 2<br><strong>Black duck:</strong> 2<br><strong
+ >Mottled duck:</strong> 1<br><strong>Pintails:</strong> 1</p><p><strong>Co
+ ots</strong>: <strong>Daily limit</strong> of 15\, <strong>possession limi
+ t </strong>of 45.<br><br><strong>Geese</strong><br><strong>Light geese: Da
+ ily limit</strong> 20\, <strong>no possession limit</strong><br><strong>Ca
+ nada/brant geese (combined):</strong> <strong>Daily limit</strong> 3\, <st
+ rong>possession limit</strong> 9<br><strong>White-fronted geese: Daily lim
+ it</strong> 2\, <strong>possession limit</strong> 6</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/ducks-coots-gees
+ e-hunting-youth-south-zone
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Turkey: Spring-2025
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250511
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Turkey: Spring
+TRANSP:TRANSPARENT
+DESCRIPTION:\nExtend shooting hours to all day on private land only (pub
+ lic land will retain the 1PM closing time) for all three weeks of the seas
+ on\n\nnull\n
+X-ALT-DESC;FMTTYPE=text/html:\nExtend shooting hours to all day on privat
+ e land only (public land will retain the 1PM closing time) for all three 
+ weeks of the season\n\nnull\n\n\n<div class="field__item"><p>Two male turk
+ eys or turkeys with visible beard may be taken during the season\, with th
+ e following restrictions:</p><ul><li>You may take only one turkey during t
+ he first week</li><li>If you do not take one during the first week\, then 
+ you may take two turkeys during the second and third week.</li><li>You may
+  not take two turkeys on the same day.</li></ul></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/turkey-spring
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Pheasant: Hunting: Youth-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241026
+DTEND;VALUE=DATE:20241027
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Pheasant: Hunting: Youth
+TRANSP:TRANSPARENT
+DESCRIPTION:\nnull\n\nOpen to youths age 6 through 15. Youths who are not 
+ hunter-education certified must hunt in the immediate presence of a proper
+ ly licensed adult\; however\, the adult may not hunt pheasants.Only male p
+ heasants may be taken. A foot or fully-feathered head must be left attache
+ d during transportation and storage.\n
+X-ALT-DESC;FMTTYPE=text/html:\nnull\n\nOpen to youths age 6 through 15. Yo
+ uths who are not hunter-education certified must hunt in the immediate pre
+ sence of a properly licensed adult\; however\, the adult may not hunt phea
+ sants.Only male pheasants may be taken. A foot or fully-feathered head mus
+ t be left attached during transportation and storage.\n\n\n<div class="fie
+ ld__item"><p><strong>Daily limit:</strong> 2 male pheasants<br><strong>Pos
+ session limit:</strong> 4 male pheasants</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/pheasant-hunting
+ -youth
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Common Snipe: Hunting-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20240901
+DTEND;VALUE=DATE:20241216
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Common Snipe: Hunting
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to sunset\n\nnull\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to sunset\n\nn
+ ull\n\n\n<div class="field__item"><p><strong>Daily limit: </strong>8<br><s
+ trong>Possession limit:</strong> 24</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/common-snipe-hun
+ ting
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Deer: Archery-2025
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20251114
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Deer: Archery
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to one-half hour after sunset\n
+ \nAn antler-point restriction applies in some counties.\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to one-half ho
+ ur after sunset\n\nAn antler-point restriction applies in some counties.\n
+ \n\n<div class="field__item"><ul><li>Archer's Hunting Permit: two deer of 
+ either sex. Only one antlered deer may be taken before the November firear
+ ms portion.</li><li>Hunters may purchase and fill any number of archery an
+ tlerless deer hunting permits.</li><li>You may take only two antlered deer
+  during the archery and firearms deer hunting seasons combined.</li></ul><
+ /div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/deer-archery
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Coyote: Trapping-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20250228
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Coyote: Trapping
+TRANSP:TRANSPARENT
+DESCRIPTION:\nnull\n\nExtended trapping season on private land from March 
+ 1 to April 14. Only foot-hold traps\, foot-enclosing traps\, and cage-type
+  traps may be used.\n
+X-ALT-DESC;FMTTYPE=text/html:\nnull\n\nExtended trapping season on private
+  land from March 1 to April 14. Only foot-hold traps\, foot-enclosing trap
+ s\, and cage-type traps may be used.\n\n\n<div class="field__item"><p><str
+ ong>Daily limit:</strong> Any number<br><strong>Possession limit:</strong>
+  Any number</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/coyote-trapping
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Deer: Firearms: Antlerless Portions-2025
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20251012
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Deer: Firearms: Antlerless Portions
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to one-half hour after sunset\n
+ \nOnly select counties are open to firearms hunting during the antlerless 
+ portions. See antlerless regulations.\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to one-half ho
+ ur after sunset\n\nOnly select counties are open to firearms hunting durin
+ g the antlerless portions. See antlerless regulations.\n\n\n<div class="fi
+ eld__item"><ul><li>Only antlerless deer may be harvested during the Antler
+ less.&nbsp\;</li><li>Each county limits the number of antlerless deer hunt
+ ing permits you can fill during the entire firearms season. <a href="https
+ ://mdc.mo.gov/hunting-trapping/regulations/antlerless-deer-hunting-county-
+ restrictions">See antlerless regulations</a>.</li></ul></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/deer-firearms-an
+ tlerless-portions
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Ducks and Coots Hunting: Middle Zone-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241102
+DTEND;VALUE=DATE:20241110
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Ducks and Coots Hunting: Middle Zone
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to sunset\n\nSee the zone bound
+ ary map for areas in the middle zone.\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to sunset\n\nS
+ ee the zone boundary map for areas in the middle zone.\n\n\n<div class="fi
+ eld__item"><p><strong>Ducks: Daily limit</strong> of 6 with species restri
+ ctions below\, <strong>possession limit</strong> of 18<br><strong>Mallards
+ :</strong> 4 (no more than 2 females)<br><strong>Scaup: </strong>2 scaup f
+ or first 45 days and 1 scaup for last 15 days<br><strong>Wood ducks</stron
+ g>: 3<br><strong>Hooded mergansers:</strong> 2<br><strong>Redheads:</stron
+ g> 2<br><strong>Canvasback: </strong>2<br><strong>Black duck:</strong> 2<b
+ r><strong>Mottled duck: </strong>1<br><strong>​Pintails:</strong> 1</p><
+ p><strong>Coots:</strong> <strong>Daily limit</strong> of 15\, <strong>pos
+ session limit</strong> of 45.</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/ducks-coots-hunt
+ ing-middle-zone
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Deer: Firearms: Youth Portions-2025
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251102
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Deer: Firearms: Youth Portions
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to one-half hour after sunset\n
+ \nTo participate\, you must be at least 6 and no older than 15 on the open
+ ing day of the early youth portion.Hunters who are 15 years or younger on 
+ Sept. 15 of the current year are exempt from the antler-point restriction 
+ during the archery deer season and all portions of the firearms deer seaso
+ n.\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to one-half ho
+ ur after sunset\n\nTo participate\, you must be at least 6 and no older th
+ an 15 on the opening day of the early youth portion.Hunters who are 15 yea
+ rs or younger on Sept. 15 of the current year are exempt from the antler-p
+ oint restriction during the archery deer season and all portions of the fi
+ rearms deer season.\n\n\n<div class="field__item"><ul><li>Only one deer (o
+ f either sex) may be taken during the early youth portion. If you have mor
+ e than one permit\, you must use them in another portion.</li><li>Only one
+  antlered deer may be taken during the entire firearms season (all portion
+ s combined).</li><li>You may take only two antlered deer during the archer
+ y and firearms deer hunting seasons combined.</li><li>Each county limits t
+ he number of antlerless deer hunting permits you can fill during the entir
+ e firearms season. <a href="https://mdc.mo.gov/hunting-trapping/regulation
+ s/antlerless-deer-hunting-county-restrictions">See map</a>.</li></ul></div
+ >\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/deer-firearms-yo
+ uth-portions
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Ducks and Coots Hunting: Middle Zone-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241102
+DTEND;VALUE=DATE:20241110
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Ducks and Coots Hunting: Middle Zone
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to sunset\n\nSee the zone bound
+ ary map for areas in the middle zone.\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to sunset\n\nS
+ ee the zone boundary map for areas in the middle zone.\n\n\n<div class="fi
+ eld__item"><p><strong>Ducks: Daily limit</strong> of 6 with species restri
+ ctions below\, <strong>possession limit</strong> of 18<br><strong>Mallards
+ :</strong> 4 (no more than 2 females)<br><strong>Scaup: </strong>2 scaup f
+ or first 45 days and 1 scaup for last 15 days<br><strong>Wood ducks</stron
+ g>: 3<br><strong>Hooded mergansers:</strong> 2<br><strong>Redheads:</stron
+ g> 2<br><strong>Canvasback: </strong>2<br><strong>Black duck:</strong> 2<b
+ r><strong>Mottled duck: </strong>1<br><strong>​Pintails:</strong> 1</p><
+ p><strong>Coots:</strong> <strong>Daily limit</strong> of 15\, <strong>pos
+ session limit</strong> of 45.</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/ducks-coots-hunt
+ ing-middle-zone
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Mink: Trapping-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20250228
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Mink: Trapping
+TRANSP:TRANSPARENT
+DESCRIPTION:\nnull\n\nnull\n
+X-ALT-DESC;FMTTYPE=text/html:\nnull\n\nnull\n\n\n<div class="field__item">
+ <p><strong>Daily limit: </strong>Any number<br><strong>Possession limit:</
+ strong> Any number</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/mink-trapping
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Deer: Firearms: Youth Portions-2025
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251102
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Deer: Firearms: Youth Portions
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to one-half hour after sunset\n
+ \nTo participate\, you must be at least 6 and no older than 15 on the open
+ ing day of the early youth portion.Hunters who are 15 years or younger on 
+ Sept. 15 of the current year are exempt from the antler-point restriction 
+ during the archery deer season and all portions of the firearms deer seaso
+ n.\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to one-half ho
+ ur after sunset\n\nTo participate\, you must be at least 6 and no older th
+ an 15 on the opening day of the early youth portion.Hunters who are 15 yea
+ rs or younger on Sept. 15 of the current year are exempt from the antler-p
+ oint restriction during the archery deer season and all portions of the fi
+ rearms deer season.\n\n\n<div class="field__item"><ul><li>Only one deer (o
+ f either sex) may be taken during the early youth portion. If you have mor
+ e than one permit\, you must use them in another portion.</li><li>Only one
+  antlered deer may be taken during the entire firearms season (all portion
+ s combined).</li><li>You may take only two antlered deer during the archer
+ y and firearms deer hunting seasons combined.</li><li>Each county limits t
+ he number of antlerless deer hunting permits you can fill during the entir
+ e firearms season. <a href="https://mdc.mo.gov/hunting-trapping/regulation
+ s/antlerless-deer-hunting-county-restrictions">See map</a>.</li></ul></div
+ >\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/deer-firearms-yo
+ uth-portions
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Beaver and Nutria: Trapping-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20250331
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Beaver and Nutria: Trapping
+TRANSP:TRANSPARENT
+DESCRIPTION:\nnull\n\nnull\n
+X-ALT-DESC;FMTTYPE=text/html:\nnull\n\nnull\n\n\n<div class="field__item">
+ <p><strong>Daily limit:</strong> Any number<br><strong>Possession limit:</
+ strong> Any number</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/beaver-nutria-tr
+ apping
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Rabbit: Hunting-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241001
+DTEND;VALUE=DATE:20250215
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Rabbit: Hunting
+TRANSP:TRANSPARENT
+DESCRIPTION:\nSunrise to sunset\n\nOnly cottontail and swamp rabbits may b
+ e hunted. Jackrabbits are protected at all times and may not be hunted or 
+ trapped.Methods depend on the type of permit (archery or small game huntin
+ g).\n
+X-ALT-DESC;FMTTYPE=text/html:\nSunrise to sunset\n\nOnly cottontail and sw
+ amp rabbits may be hunted. Jackrabbits are protected at all times and may 
+ not be hunted or trapped.Methods depend on the type of permit (archery or 
+ small game hunting).\n\n\n<div class="field__item"><p><strong>Daily limit<
+ /strong>: 6\, only 2 may be swamp rabbits<br><strong>Possession limit:&nbs
+ p\;</strong>12\, only 4 may be swamp rabbits</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/rabbit-hunting
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Ducks and Coots Hunting: South Zone-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241128
+DTEND;VALUE=DATE:20241201
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Ducks and Coots Hunting: South Zone
+TRANSP:TRANSPARENT
+DESCRIPTION:\nOne-half hour before sunrise to sunset\n\nSee the zone bound
+ ary map for areas in the south zone.\n
+X-ALT-DESC;FMTTYPE=text/html:\nOne-half hour before sunrise to sunset\n\nS
+ ee the zone boundary map for areas in the south zone.\n\n\n<div class="fie
+ ld__item"><p><strong>Ducks:</strong> <strong>Daily limit</strong> of 6 wit
+ h species restrictions below\, <strong>possession limit </strong>of 18<br>
+ <strong>Mallards:</strong> 4 (no more than 2 females)<br><strong>Scaup:</s
+ trong> 2 scaup for first 45 days and 1 scaup for last 15 days<br><strong>W
+ ood ducks:</strong> 3<br><strong>Hooded mergansers:</strong> 2<br><strong>
+ Redheads:</strong> 2<br><strong>Canvasback:</strong> 2<br><strong>Black du
+ ck:</strong> 2<br><strong>Mottled duck:</strong> 1<br>​<strong>Pintails:
+ </strong> 1</p><p><strong>Coots: Daily limit</strong> of 15\, <strong>poss
+ ession limit</strong> of 45.</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/ducks-coots-hunt
+ ing-south-zone
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Bobcat: Hunting and Trapping-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20250228
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Bobcat: Hunting and Trapping
+TRANSP:TRANSPARENT
+DESCRIPTION:\nnull\n\nBobcat pelts must be registered or tagged. Tagged bo
+ bcats and otters or their pelts may be possessed by the taker throughout t
+ he year.\n
+X-ALT-DESC;FMTTYPE=text/html:\nnull\n\nBobcat pelts must be registered or 
+ tagged. Tagged bobcats and otters or their pelts may be possessed by the t
+ aker throughout the year.\n\n\n<div class="field__item"><p><strong>Daily l
+ imit:</strong> Any number<br><strong>Possession limit:</strong> Any number
+ </p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/bobcat-hunting-t
+ rapping
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Striped Skunk: Hunting and Trapping-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20250228
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Striped Skunk: Hunting and Trapping
+TRANSP:TRANSPARENT
+DESCRIPTION:\nnull\n\nExtended trapping season on private land from March 
+ 1 to April 14.\n
+X-ALT-DESC;FMTTYPE=text/html:\nnull\n\nExtended trapping season on private
+  land from March 1 to April 14.\n\n\n<div class="field__item"><p><strong>D
+ aily limit:</strong>&nbsp\;Any number<br><strong>Possession limit:</strong
+ >&nbsp\;Any number</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/striped-skunk-hu
+ nting-trapping
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Opossum: Hunting and Trapping-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20250228
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Opossum: Hunting and Trapping
+TRANSP:TRANSPARENT
+DESCRIPTION:\nnull\n\nExtended trapping season on private land from March 
+ 1 to April 14.\n
+X-ALT-DESC;FMTTYPE=text/html:\nnull\n\nExtended trapping season on private
+  land from March 1 to April 14.\n\n\n<div class="field__item"><p><strong>D
+ aily limit:</strong> Any number<br><strong>Possession limit: </strong>Any 
+ number</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/opossum-hunting-
+ trapping
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Raccoon: Hunting and Trapping-2024
+SEQUENCE:0
+DTSTAMP:20250318T232322Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20250228
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:Raccoon: Hunting and Trapping
+TRANSP:TRANSPARENT
+DESCRIPTION:\nnull\n\nArtificial lights are allowed when hunting raccoons 
+ if raccoons are treed with the aid of dogs.From August 1 through October 1
+ 5 only foot-enclosing traps and cage-type traps may be used.Extended trapp
+ ing season on private land from March 1 to April 14. \n
+X-ALT-DESC;FMTTYPE=text/html:\nnull\n\nArtificial lights are allowed when 
+ hunting raccoons if raccoons are treed with the aid of dogs.From August 1 
+ through October 15 only foot-enclosing traps and cage-type traps may be us
+ ed.Extended trapping season on private land from March 1 to April 14. \n\
+ n\n<div class="field__item"><p><strong>Daily limit:</strong>&nbsp\;Any num
+ ber<br><strong>Possession limit:&nbsp\;</strong>Any number</p></div>\n
+ORGANIZER;CN="Missouri Dept of Conservation":mailto:webmaster@mdc.mo.gov
+URL;VALUE=URI:https://mdc.mo.gov/hunting-trapping/seasons/raccoon-hunting-
+ trapping
+LAST-MODIFIED:20250318T232322Z
+END:VEVENT
+END:VCALENDAR
